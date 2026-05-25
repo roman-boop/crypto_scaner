@@ -4,7 +4,7 @@
 ---
 Этот репозиторий содержит два Python-модуля для **сканирования фьючерсного рынка** биржи BingX. Система отслеживает открытый интерес (OI), ставки финансирования и технические индикаторы (EMA + MACD) для генерации торговых сигналов в реальном времени.
 
-> **Соцсети автора:**
+**Соцсети автора:**
 > 📱 **Telegram канал:** [@crypto_maniac](https://t.me/cryptomaniac_algo)  
 > 🎥 **YouTube канал:** [youtube.com/c/cryptomaniac_academy](https://www.youtube.com/@cryptomaniac_academy)
 
